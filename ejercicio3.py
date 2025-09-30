@@ -1,0 +1,1 @@
+print("Hola, soy Ernesto Lindo y este es mi primer repositorio... por algo se empieza")
