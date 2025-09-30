@@ -1,2 +1,3 @@
 print("Viendo lo de los conflictos, ejercicio 8")
-print("Version rama conflicto")
+print("Version rama main")
+print("Conflicto resuelto")
